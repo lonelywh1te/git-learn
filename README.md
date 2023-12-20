@@ -19,7 +19,7 @@
 `git branch -D <BRANCH_NAME>` - удалить ветку (-d более безопасный вариант)  
 
 `git checkout <BRANCH_NAME>` - переключиться на другую ветку  
-`git checkout -b <BRANCH_NAME>` - посмотреть историю коммитов  
+`git checkout -b <BRANCH_NAME>` - создать и переключиться на новую ветку 
 
 `git merge <BRANCH_NAME>` - выполнить слияние текущей ветки и BRANCH_NAME  
 `git push -u origin <BRANCH_NAME>` - запушить ветку  
